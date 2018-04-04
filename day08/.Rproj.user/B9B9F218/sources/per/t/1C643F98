@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522814839068.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "615785644",
+    "id" : "1C643F98",
+    "lastKnownWriteTime" : 1522819716,
+    "last_content_update" : 1522819716913,
+    "path" : "C:/rproject/day08/jdbc2.R",
+    "project_path" : "jdbc2.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522819719291.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "836000324",
+    "id" : "10D7A44E",
+    "lastKnownWriteTime" : 1522825357,
+    "last_content_update" : 1522825357358,
+    "path" : "C:/rproject/day08/jdbc3.R",
+    "project_path" : "jdbc3.R",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "5",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
